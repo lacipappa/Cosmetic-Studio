@@ -41,7 +41,8 @@
     "quote": "My skin has never looked so healthy. The whole experience feels like a little reset.",
     "ctaEyebrow": "YOUR SKIN DESERVES TIME",
     "ctaTitle": "Ready for your next ritual?",
-    "ctaButton": "Make an appointment"
+    "ctaButton": "Make an appointment",
+    "from": "from"
   },
   "services": {
     "facial": "Facial rituals",
