@@ -57,7 +57,21 @@
     "intro": "Válassz egy rituálét, vagy kérj tőlünk személyre szabott ajánlást.",
     "bookingTitle": "Nem tudod, melyiket válaszd?",
     "bookingText": "Foglalj ingyenes, 10 perces bőrkonzultációt.",
-    "bookingButton": "Beszélj velünk"
+    "bookingButton": "Beszélj velünk",
+    "items": {
+      "glowFacial": "Ragyogás arckezelés",
+      "essentialFacial": "Alap arckezelés",
+      "expressGlow": "Expressz ragyogás",
+      "renewalTreatment": "Bőrmegújító kezelés",
+      "brighteningRitual": "Ragyogásfokozó rituálé",
+      "calmRepair": "Nyugtató és regeneráló kezelés",
+      "browShape": "Szemöldökformázás",
+      "browLamination": "Szemöldöklaminálás",
+      "lashLift": "Szempilla-lifting",
+      "backRitual": "Hátkezelő rituálé",
+      "relaxingMassage": "Relaxáló masszázs",
+      "fullBodyRitual": "Teljes testes rituálé"
+    }
   },
   "about": {
     "eyebrow": "A TÖRTÉNETÜNK",
