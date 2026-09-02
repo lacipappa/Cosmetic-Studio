@@ -57,7 +57,21 @@
     "intro": "Choose a ritual or get in touch for a personalised recommendation.",
     "bookingTitle": "Not sure what to choose?",
     "bookingText": "Book a complimentary 10-minute skin consultation.",
-    "bookingButton": "Talk to us"
+    "bookingButton": "Talk to us",
+    "items": {
+      "glowFacial": "Glow Facial",
+      "essentialFacial": "Essential Facial",
+      "expressGlow": "Express Glow",
+      "renewalTreatment": "Renewal Treatment",
+      "brighteningRitual": "Brightening Ritual",
+      "calmRepair": "Calm & Repair",
+      "browShape": "Brow Shape",
+      "browLamination": "Brow Lamination",
+      "lashLift": "Lash Lift",
+      "backRitual": "Back Ritual",
+      "relaxingMassage": "Relaxing Massage",
+      "fullBodyRitual": "Full Body Ritual"
+    }
   },
   "about": {
     "eyebrow": "OUR STORY",
