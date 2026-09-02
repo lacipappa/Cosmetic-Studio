@@ -57,7 +57,21 @@
     "intro": "Elige un ritual o escríbenos para recibir una recomendación personalizada.",
     "bookingTitle": "¿No sabes cuál elegir?",
     "bookingText": "Reserva una consulta de piel gratuita de 10 minutos.",
-    "bookingButton": "Hablar con nosotras"
+    "bookingButton": "Hablar con nosotras",
+    "items": {
+      "glowFacial": "Facial Luminosidad",
+      "essentialFacial": "Facial Esencial",
+      "expressGlow": "Luminosidad Exprés",
+      "renewalTreatment": "Tratamiento Renovador",
+      "brighteningRitual": "Ritual Iluminador",
+      "calmRepair": "Calma y Reparación",
+      "browShape": "Diseño de Cejas",
+      "browLamination": "Laminado de Cejas",
+      "lashLift": "Lifting de Pestañas",
+      "backRitual": "Ritual de Espalda",
+      "relaxingMassage": "Masaje Relajante",
+      "fullBodyRitual": "Ritual Corporal Completo"
+    }
   },
   "about": {
     "eyebrow": "NUESTRA HISTORIA",
